@@ -1,0 +1,233 @@
+
+{
+  "PROJECT": {
+    "title": "500 Years of Tamil Nadu Culture",
+    "subtitle": "A Journey Through 500 Years of Tamil Heritage",
+    "timeline": "1526-2026",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "language": "Tamil",
+    "video_type": "Historical Cinematic Documentary",
+    "aspect_ratio": "16:9",
+    "resolution": "4K Ultra HD",
+    "frame_rate": "24 FPS",
+    "total_duration": "80 seconds",
+    "visual_style": "Photorealistic cinematic historical storytelling"
+  },
+
+  "SCENES": [
+
+    {
+      "scene": 1,
+      "period": "1526-1600",
+      "title": "The Traditional Tamil Kingdoms",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Traditional Tamil people living during the Nayak period, royal families, temple sculptors, farmers, traditional merchants and artisans.",
+
+        "COMPOSITION": "Wide cinematic aerial establishing shot of a magnificent Dravidian temple, followed by medium shots of traditional Tamil people wearing cotton sarees, veshtis and traditional jewellery.",
+
+        "ACTION": "Temple artisans carefully carving stone sculptures, farmers cultivating paddy fields, merchants trading traditional goods and people participating in temple celebrations.",
+
+        "LOCATION": "Madurai Meenakshi Amman Temple, Thanjavur region and traditional Tamil villages.",
+
+        "ESTHETIC": "Historically inspired 16th-century Tamil Nadu atmosphere, warm golden sunlight, earthy colours, detailed stone architecture, authentic traditional clothing, cinematic realism and atmospheric lighting."
+      },
+
+      "CAMERA": "Slow aerial movement followed by cinematic tracking shots.",
+      "TRANSITION": "Golden sunlight dissolves into the next historical period."
+    },
+
+    {
+      "scene": 2,
+      "period": "1600-1750",
+      "title": "Temples, Kings and Traditional Arts",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Tamil royal courts, traditional musicians, temple dancers, sculptors, weavers and agricultural communities.",
+
+        "COMPOSITION": "Grand temple corridors, colourful traditional markets, royal palace interiors and detailed close-ups of traditional jewellery and silk fabrics.",
+
+        "ACTION": "Bharatanatyam's historical dance traditions, classical music performances, handloom weaving, bronze sculpture making and temple festival processions.",
+
+        "LOCATION": "Thanjavur Palace, Madurai, Srirangam and Kumbakonam.",
+
+        "ESTHETIC": "Rich traditional colours, intricate Dravidian architecture, bronze sculptures, traditional oil lamps, authentic historical atmosphere and cinematic depth."
+      },
+
+      "CAMERA": "Smooth tracking shots, close-up details and wide architectural shots.",
+      "TRANSITION": "A traditional oil lamp transforms into a glowing colonial-era street lantern."
+    },
+
+    {
+      "scene": 3,
+      "period": "1750-1850",
+      "title": "Colonial Era and Changing Society",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Tamil villagers, traditional merchants, local craftspeople, agricultural workers and people experiencing changes during colonial rule.",
+
+        "COMPOSITION": "Historical streets, traditional houses, trading ports, colonial-era buildings and village marketplaces.",
+
+        "ACTION": "Merchants exchanging goods, bullock carts transporting agricultural products, fishermen working along the coast and artisans continuing traditional crafts.",
+
+        "LOCATION": "Chennai, Thoothukudi, Thanjavur and coastal Tamil Nadu.",
+
+        "ESTHETIC": "Historically inspired 18th and 19th-century environments, muted earthy tones, natural sunlight, realistic architecture, documentary-style cinematography."
+      },
+
+      "CAMERA": "Slow cinematic pans and historical street-level tracking shots.",
+      "TRANSITION": "A colonial-era street scene transitions into an early modern Tamil city."
+    },
+
+    {
+      "scene": 4,
+      "period": "1850-1900",
+      "title": "Tamil Literature and Social Awakening",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Tamil scholars, poets, teachers, traditional publishers, students and social reformers.",
+
+        "COMPOSITION": "Close-up shots of palm-leaf manuscripts, Tamil handwritten books, printing presses, traditional schools and literary gatherings.",
+
+        "ACTION": "Scholars studying ancient Tamil manuscripts, printing Tamil books, teaching students and preserving Tamil literature and cultural traditions.",
+
+        "LOCATION": "Chennai, Jaffna cultural connections, Madurai and traditional Tamil educational centres.",
+
+        "ESTHETIC": "Warm sepia cinematic tones, vintage photography inspiration, traditional wooden furniture, handwritten Tamil manuscripts and historically grounded storytelling."
+      },
+
+      "CAMERA": "Macro shots of manuscripts, slow push-ins and cinematic portrait shots.",
+      "TRANSITION": "The pages of an old Tamil book turn into scenes of India's freedom movement."
+    },
+
+    {
+      "scene": 5,
+      "period": "1900-1947",
+      "title": "Freedom Movement and Tamil Identity",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Tamil freedom fighters, national movement participants, students, poets and ordinary people contributing to India's independence movement.",
+
+        "COMPOSITION": "Historical street gatherings, public meetings, traditional printing presses and crowds participating in peaceful demonstrations.",
+
+        "ACTION": "People carrying the Indian national flag, freedom movement gatherings, patriotic speeches, printing newspapers and spreading messages of independence.",
+
+        "LOCATION": "Chennai, Tirunelveli, Thoothukudi and other historically significant locations in Tamil Nadu.",
+
+        "ESTHETIC": "Authentic early 20th-century atmosphere, vintage film grain, natural lighting, historical clothing and emotionally powerful cinematic storytelling."
+      },
+
+      "CAMERA": "Wide crowd shots, slow-motion documentary sequences and emotional close-ups.",
+      "TRANSITION": "The Indian national flag fills the frame and reveals independent India."
+    },
+
+    {
+      "scene": 6,
+      "period": "1947-1980",
+      "title": "A New Era of Tamil Nadu",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Teachers, farmers, industrial workers, Tamil writers, filmmakers, musicians, students and growing urban communities.",
+
+        "COMPOSITION": "Government schools, industrial buildings, traditional villages, cinema theatres, agricultural landscapes and developing cities.",
+
+        "ACTION": "Children attending school, farmers using improved agricultural methods, factories developing, Tamil cinema growing and traditional festivals continuing across communities.",
+
+        "LOCATION": "Chennai, Coimbatore, Madurai, Salem and rural Tamil Nadu.",
+
+        "ESTHETIC": "1970s cinematic colour grading, vintage film appearance, realistic architecture, nostalgic atmosphere and vibrant Tamil cultural identity."
+      },
+
+      "CAMERA": "Vintage documentary-style tracking shots and wide city panoramas.",
+      "TRANSITION": "A vintage cinema film reel transitions into the digital age."
+    },
+
+    {
+      "scene": 7,
+      "period": "1980-2010",
+      "title": "Culture Meets Modern Development",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Tamil families, IT professionals, entrepreneurs, traditional artists, college students, musicians and modern agricultural communities.",
+
+        "COMPOSITION": "A cinematic combination of traditional temples, modern buildings, busy city roads, cultural festivals and educational institutions.",
+
+        "ACTION": "People celebrating Pongal, performing Bharatanatyam, playing traditional Tamil instruments, working in technology companies and preserving their cultural heritage.",
+
+        "LOCATION": "Chennai, Coimbatore, Tiruchirappalli, Madurai and other growing Tamil Nadu cities.",
+
+        "ESTHETIC": "Colourful cinematic visuals, natural skin textures, realistic urban environments, vibrant festival lighting and balanced traditional-modern storytelling."
+      },
+
+      "CAMERA": "Smooth drone shots, moving city sequences and cinematic festival close-ups.",
+      "TRANSITION": "A city skyline transforms into a contemporary Tamil Nadu landscape."
+    },
+
+    {
+      "scene": 8,
+      "period": "2010-2026",
+      "title": "Modern Tamil Nadu – A Living Heritage",
+      "duration": "10 seconds",
+
+      "SCALE": {
+        "SUBJECT": "Today's Tamil people, young students, entrepreneurs, farmers, traditional artists, women professionals, fishermen, athletes and families.",
+
+        "COMPOSITION": "Grand aerial view of modern Chennai, beautiful Tamil villages, ancient temples, modern infrastructure, beaches and traditional cultural celebrations.",
+
+        "ACTION": "Pongal celebrations, Jallikattu cultural traditions, Bharatanatyam performances, Tamil folk music, traditional food preparation, technological innovation and modern education.",
+
+        "LOCATION": "Chennai, Madurai, Thanjavur, Rameswaram, Kanyakumari, Ooty and Tamil Nadu villages.",
+
+        "ESTHETIC": "Ultra-realistic 4K cinematography, spectacular sunrise, vibrant colours, cinematic lighting, authentic Tamil cultural details and emotional documentary atmosphere."
+      },
+
+      "CAMERA": "Epic drone shots, slow-motion festival sequences and a final panoramic view of Tamil Nadu.",
+      "TRANSITION": "Fade into a beautiful sunrise over the Tamil Nadu coastline."
+    }
+  ],
+
+  "FINAL_SEQUENCE": {
+    "title": "தமிழர் பண்பாடு என்றும் வாழும்",
+    "visual": "A majestic cinematic montage combining ancient Tamil temples, traditional villages, Bharatanatyam, Pongal celebrations, Tamil literature and modern Chennai skyline.",
+    "text_on_screen": "500 YEARS OF TAMIL HERITAGE",
+    "tamil_text": "தமிழர் பண்பாடு என்றும் வாழும்",
+    "voiceover": "ஐநூறு ஆண்டுகள் கடந்தாலும், நம் மொழி, கலை, பண்பாடு, பாரம்பரியம் என்றும் வாழும். இது தமிழ்நாடு... இது நம் பெருமை!",
+    "music": "Emotional orchestral background combined with traditional Tamil nadaswaram, thavil and folk percussion.",
+    "ending": "Fade out with a magnificent sunrise and the words VANAKKAM TAMIL NADU."
+  },
+
+  "GLOBAL_VIDEO_SETTINGS": {
+    "visual_quality": "Ultra realistic",
+    "resolution": "4K",
+    "aspect_ratio": "16:9",
+    "frame_rate": "24fps",
+    "lighting": "Cinematic natural lighting",
+    "camera_quality": "Professional cinema camera",
+    "movement": "Smooth cinematic motion",
+    "historical_accuracy": "Respect the clothing, architecture, technology and lifestyle of each period.",
+    "cultural_authenticity": "Represent Tamil Nadu's diverse regional, rural, urban and artistic traditions respectfully.",
+    "audio": "Traditional Tamil instrumental music with cinematic orchestration",
+    "negative_prompt": [
+      "Incorrect historical clothing",
+      "Modern buildings in ancient scenes",
+      "Unrealistic temple architecture",
+      "Distorted faces",
+      "Extra fingers",
+      "Unnatural body movements",
+      "Incorrect Tamil cultural symbols",
+      "Random text and misspelled Tamil words",
+      "Cartoon appearance",
+      "Low resolution",
+      "Flickering frames",
+      "Inconsistent characters"
+    ]
+  }
+}
